@@ -25,6 +25,7 @@ You can download the full PDF here:
 
 👉 **[Download Seaborn_CheatSheet_EN.pdf](Seaborn_CheatSheet_EN.pdf)**
 
+*(Note: The PDF might not display directly in the browser, but you can easily download it to view on your computer.)*
 ---
 
 ## 🧪 Preview
