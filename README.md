@@ -32,7 +32,7 @@ You can download the full PDF here:
 
 Here’s what the cheat sheet looks like:
 
-![Cheat Sheet Preview](assets/preview.png)
+![Cheat Sheet Preview](assets/seaborn_cheatsheet_small.png)
 
 ---
 
@@ -43,7 +43,7 @@ Here’s what the cheat sheet looks like:
 | `Seaborn_CheatSheet_EN.pdf` | The printable cheat sheet |
 | `seaborn_cheatsheet.ipynb` | Code that generates the PDF |
 | `assets/preview.png` | Screenshot preview for GitHub |
-| `assets/logo.png` | Optional project icon |
+| `assets/logo.png` | Project icon |
 
 ---
 
